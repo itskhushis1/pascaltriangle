@@ -1,6 +1,7 @@
 //inverted pascal's triangle
 #include <iostream>
 using namespace std;
+
 int  main()
 {
    int n, k = 0;
